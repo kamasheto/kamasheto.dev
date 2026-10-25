@@ -1,5 +1,5 @@
 /leash https://github.com/kamasheto/leash 302
-/install-leash  https://raw.githubusercontent.com/kamasheto/leash/main/install.sh  200
+/install-leash  https://raw.githubusercontent.com/kamasheto/leash/main/install.sh  302
 
 # Everything else
 /*  https://sakr.me/:splat  302
